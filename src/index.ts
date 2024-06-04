@@ -14,6 +14,9 @@ function runExerciseOne() {
 
 
 function runExerciseTwo() {
+  let firstName = "Narin";
+  let lastName = "Karan";
+  console.log("\"Hello Narin Karin! Have a nice day!\"");
 
 }
 
