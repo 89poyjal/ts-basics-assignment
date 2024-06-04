@@ -20,7 +20,19 @@ function runExerciseTwo() {
 
 }
 
-function runExerciseThree() {}
+function runExerciseThree() {
+   let num1: number = 10;
+  let num2: number = 20;
+  let sum: number = num1+num2;
+  console.log(sum );
+  
+  let evenNumber: number = 6;
+  let oddNumber: number = 11;
+  let divitionResult: number = oddNumber/evenNumber;
+ 
+  console.log(divitionResult);
+}
+  
 
 function runExerciseFour() {}
 
