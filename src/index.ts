@@ -7,10 +7,15 @@ import prompt from "prompt-sync";
 const readLine = prompt({ sigint: true });
 
 function runExerciseOne() {
-  console.log("Write your own code for this method.");
+  const firstName = "Sebastin";
+  const lastName = "Vilan";
+  console.log(`Hello ${firstName} ${lastName}! I'm glad to inform you that you are the test subject for my first assignment!`);
 }
 
-function runExerciseTwo() {}
+
+function runExerciseTwo() {
+
+}
 
 function runExerciseThree() {}
 
@@ -41,6 +46,8 @@ while (keepAlive) {
     switch (assignmentChoice) {
       case 1:
         runExerciseOne();
+          
+
         break;
       case 2:
         runExerciseTwo();
