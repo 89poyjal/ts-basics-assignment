@@ -323,6 +323,7 @@ function runExerciseSeventhen() {
     console.log(seq.toString());
 }
 
+
 function runExerciseNinethen(){
    console.log("--Calculate triangle area--");
    const height: number = Number(readLine("Enter height:"));
