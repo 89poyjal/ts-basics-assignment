@@ -366,6 +366,7 @@ function runExerciseTwentyOne(){
 }
 
 
+
 function runExerciseTwentyTwo(){
    const name = readLine("Enter Name:");
    console.log(`Hello ${name}!`);
