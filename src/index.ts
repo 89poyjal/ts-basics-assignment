@@ -351,6 +351,7 @@ function runExerciseTwenty(){
 }
 
 
+
 function runExerciseTwentyOne(){
    const birthdate: Date = new Date(readLine("Enter birthday:"))
    const today: Date = new Date();
