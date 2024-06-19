@@ -543,6 +543,7 @@ function runExerciseTwentyNine(){
   console.log(arr.toString());
 }
 
+
 function runExerciseThirty(){
   let arr: number[] = [];
   let sizeMin: number = 5;
