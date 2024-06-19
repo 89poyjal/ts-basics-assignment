@@ -620,7 +620,7 @@ function runExerciseThirtyFour(){
     }
     year++;
   }
-
+console.log("test");
 }
 
 /* ^^^^^^^^^^^^  Add the rest of the exercise functions above this line ^^^^^^^^^^^^ */
