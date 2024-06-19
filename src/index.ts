@@ -60,7 +60,8 @@ function runExerciseFive() {
   if (num1 + 1=== num2 || num2 + 1 ===num1){
     console.log("consecutive");
   }else {
-    console.log("Not consecutive");
+    console.log("Not consecutive");5
+    
   }
   
   }
