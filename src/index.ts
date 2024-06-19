@@ -308,6 +308,7 @@ function runExerciseSixthen() {
   console.log(`Average: ${sum / count}`);
 }
 
+
 function runExerciseSeventhen() {
     let num = Number(readLine("How many fibonacci numbers?"))
     let seq: number[] = [];
