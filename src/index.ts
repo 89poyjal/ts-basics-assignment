@@ -445,6 +445,7 @@ function runExerciseTwentyFour(){
 }
 
 
+
 function runExerciseTwentyFive(){
   let totalArr: number[] = [];
   let oddArr: number[] = [];
