@@ -578,6 +578,7 @@ function runExerciseThirty(){
 
 }
 
+
 function runExerciseThirtyOne(){
   let year = Number(readLine("Enter current year:"));
   if(year === new Date().getFullYear()){
