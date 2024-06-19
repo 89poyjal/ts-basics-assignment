@@ -101,7 +101,7 @@ function runExerciseEight() {
         console.log(`You got an ${grade}! :'(`);
         break;
         default:
-          console.log(chalk.red("You didn't get a grade!"));
+          console.log(chalk.red("You didn't get a grade!"));8
 
   }
 }
