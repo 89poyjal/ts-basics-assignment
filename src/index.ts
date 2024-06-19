@@ -118,7 +118,7 @@ function runExerciseNine() {
     console.log(chalk.green(`"${originalInput}" is not a palindrome`));
 
   }
-  
+
 } 
 function runExerciseTen() {
   //A
