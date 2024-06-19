@@ -263,7 +263,7 @@ function runExerciseFourthen() {
    }
 
    console.table(multiTable)
-   
+
 
 }
 
@@ -290,6 +290,7 @@ function runExerciseFifthen() {
     }
   }
 }
+
 
 function runExerciseSixthen() {
   console.log("Keep entering numbers until you enter 0");
