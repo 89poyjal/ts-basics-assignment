@@ -61,7 +61,7 @@ function runExerciseFive() {
     console.log("consecutive");
   }else {
     console.log("Not consecutive");5
-    
+
   }
   
   }
@@ -73,7 +73,7 @@ function runExerciseSix() {
   console.log("Even");
  }else {
   console.log("Odd");
- }
+ }6
 }
 
 
