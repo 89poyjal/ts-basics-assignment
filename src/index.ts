@@ -407,7 +407,7 @@ function serveDrink(){
           break;
        }
   }
-  
+
 
 
 
@@ -423,6 +423,7 @@ function findMax(arr: number[]){
 function findMin(arr: number[]){
   return Math.min(...arr);
 }
+
 
 
 function runExerciseTwentyFour(){
