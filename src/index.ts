@@ -516,6 +516,7 @@ function runExerciseTwentyEigth(){
 
 }
 
+
 function runExerciseTwentyNine(){
   let arr: number[] = [];
   let sizeMin: number = 5;
