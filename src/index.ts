@@ -478,6 +478,8 @@ function runExerciseTwentySix(){
   ));
 }
 
+
+
 function runExerciseTwentySeven(){
   let arr: number[] = []
   for(let index = 0; index <12; index++){
