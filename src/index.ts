@@ -263,6 +263,7 @@ function runExerciseFourthen() {
    }
 
    console.table(multiTable)
+   
 
 }
 
