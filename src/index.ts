@@ -588,6 +588,7 @@ function runExerciseThirtyOne(){
   }
 }
 
+
 function runExerciseThirtyTwo(){
   let today = new Date();
   let tomorrow = new Date(today.getFullYear(), today.getMonth(), today.getDate() + 1);
