@@ -229,6 +229,7 @@ function runExerciseTwelve() {
     console.log(chalk.green(j));
     j--;
   }while (j > 0);
+  
 }
 
 
