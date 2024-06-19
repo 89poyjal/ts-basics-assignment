@@ -497,6 +497,7 @@ function runExerciseTwentySeven(){
   console.log(even.toLocaleString());
 }
 
+
 function runExerciseTwentyEigth(){
   let randArr: number[] = [];
   let result: number[] = [];
